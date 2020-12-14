@@ -16,6 +16,7 @@ public class BearAnimation : MonoBehaviour
         Invoke("AnimPlay", time);
     }
 
+    //アニメーションを再生する関数
     void AnimPlay()
     {
        this.gameObject.GetComponent<Animator>().enabled = true;
