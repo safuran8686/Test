@@ -5,7 +5,7 @@ using UnityEngine;
 
 //Unityのコード
 //ぽぽそら可愛い
-//フルーツの方が食べたい
+//燈明もフルーツもたべたい
 public class BearAnimation : MonoBehaviour
 {
     //アニメーションが再生されるまでの時間
