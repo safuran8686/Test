@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-//Unityのコード　ぽぽそら
+//Unityのコード
 public class BearAnimation : MonoBehaviour
 {
     //アニメーションが再生されるまでの時間
