@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class BearAnimation : MonoBehaviour
 {
+    //アニメーションが再生されるまでの時間
     [SerializeField] float time;
     private void Awake()
     {
