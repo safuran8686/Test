@@ -4,7 +4,7 @@ using UnityEngine;
 
 
 //Unityのコード
-//ぽそら可愛い
+//ぽぽそら可愛い
 public class BearAnimation : MonoBehaviour
 {
     //アニメーションが再生されるまでの時間
