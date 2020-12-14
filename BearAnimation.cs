@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+//Unityのコード
 public class BearAnimation : MonoBehaviour
 {
     //アニメーションが再生されるまでの時間
